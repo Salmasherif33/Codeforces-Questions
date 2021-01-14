@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582317396 source:c:\users\pc-lenovo\desktop\capslock\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+

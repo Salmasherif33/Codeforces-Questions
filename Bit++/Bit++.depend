@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582298078 source:c:\users\pc-lenovo\desktop\bit++\main.cpp
+	<iostream>
+	<string.h>
+

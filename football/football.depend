@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582310132 source:c:\users\pc-lenovo\desktop\football\main.cpp
+	<iostream>
+	<string.h>
+
